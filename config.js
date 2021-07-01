@@ -1,19 +1,20 @@
 const CONFIG = {
-    introTitle: 'Bé Ngân SoCute của anh à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Em đợi hết dịch chúng ta cùng nhau đi chơi nhé bé <3 .',
+    introTitle: 'Bé yêu của anh à!',
+    introDesc: `Em ơi em à thế giời có 7 tỷ người
+    Mà sao em cứ đi nhầm vào
+    tim anh <3
+    Anh là con nhà lính nhưng lại tính vào nhà em 😙
+    Gọi anh là thánh thả thính em thử dính vào mà xem.
+    btnIntro: 'Yêu',
+    title: 'Em ơi !Em ơi có cháy,anh thấy có đám khói ngay đây',
+    desc: 'Tay em thì không cầm bật lửa mà sao đốt cháy tim anh thế này',
+    btnYes: 'Để cháy chết anh luôn :3',
+    btnNo: 'Dập lửa :))',
+    question:'Tại sao em lại để anh chết cháy nụ cười em thế 🥺',
+    btnReply: 'Gửi cho anh điều em muốn nói <3',
+    reply: 'Vì em đã yêu anh mất rồi <33333333',
+    mess: 'Anh biết mà:333. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Cuối tuần này anh dẫn em đi chơi nhé <3 .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
